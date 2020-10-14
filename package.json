@@ -1,0 +1,20 @@
+{
+  "name": "sputnika",
+  "version": "1.0.0",
+  "description": "Sputnika discor bot",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^12.2.0",
+    "moment": "^2.27.0",
+    "nconf": "^0.10.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start":"app.js"
+  },
+  "author": "Hessu",
+  "license": "ISC"
+}
